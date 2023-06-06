@@ -107,7 +107,7 @@ body,p,ul{
     margin-top:40px;
     width: 245px;
     height:307px;
-    float: left;
+    display:inline-block;
     padding: 0 50px;
 
 }
@@ -128,4 +128,13 @@ body,p,ul{
 }
 .header-bg>.logo{
     padding:20px 32px;
+}
+.footer-bar{
+    position: relative;
+    margin:30px;
+    padding: 16px 645px 19px 250px;
+    background-color: #1f2026;
+}
+.footer-text{
+    color:#ffff;
 }
