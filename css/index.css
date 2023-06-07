@@ -19,7 +19,7 @@ header {
 .header-bg {
     height: 720px;
     width: 100%;
-    background-image: url("./assets/background.png");
+    background-image: url("/assets/background.png");
     position: relative;
     /* background-size: cover; */
 
